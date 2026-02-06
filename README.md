@@ -1,6 +1,3 @@
-# Secure-Login-System-
-This project focuses on building a Secure Login System using Python. The goal is to allow users to securely register and log in using email and password authentication.  User passwords are encrypted using hashing techniques before being stored, which helps protect sensitive information and prevent unauthorized access.
-
 # Secure Login System
 
 This project implements a Secure Login System in Python that allows users to register, log in, and reset their passwords using email-based authentication. User passwords are securely stored using SHA-256 hashing.
