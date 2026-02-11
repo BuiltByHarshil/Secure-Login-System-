@@ -23,10 +23,6 @@ This project implements a Secure Login System in Python that allows users to reg
 - During login, the entered password is hashed and compared with the stored hash.
 - Password reset updates the stored hash for the user.
 
-## How to Run
-1. Make sure Python is installed.
-2. Run the script:
-   python main.py
 
 ## File Storage
 User credentials are stored in a local file named users.txt.
